@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ .text-container {
+  background-color: #f2f2f2;
+  border-left:  rgb(160, 160, 160) solid 6px;
+  padding-left: 6px;
+ }
+
+#answer-container {
+  background-color: rgb(250, 250, 208);
+}
